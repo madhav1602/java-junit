@@ -1,3 +1,4 @@
+package com;
 public class StringChecker {
     public static String reverse(String str) {
         return new StringBuilder(str).reverse().toString();
