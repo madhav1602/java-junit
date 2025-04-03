@@ -1,4 +1,8 @@
+package com;
+
 import static org.junit.jupiter.api.Assertions.*;
+
+import com.StringChecker;
 import org.junit.jupiter.api.Test;
 
 class StringTest {
