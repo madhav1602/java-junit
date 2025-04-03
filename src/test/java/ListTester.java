@@ -1,8 +1,7 @@
 import org.junit.jupiter.api.*;
-
 import java.util.*;
-
 import static org.junit.jupiter.api.Assertions.*;
+
 public class ListTester {
     @Test
     public void add(){
